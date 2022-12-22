@@ -10,3 +10,5 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 alias tf="terraform"
+alias py="python3"
+alias chrome="open -a 'Google Chrome'"
